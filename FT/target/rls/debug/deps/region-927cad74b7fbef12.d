@@ -1,0 +1,12 @@
+/Users/haitran/Hackathon_NEAR/NEAR_COURCE_K2/nft-marketplace-tutorial/FT/target/rls/debug/deps/region-927cad74b7fbef12.rmeta: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/error.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/lock.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/mod.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/unix.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/macos.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/page.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/protect.rs
+
+/Users/haitran/Hackathon_NEAR/NEAR_COURCE_K2/nft-marketplace-tutorial/FT/target/rls/debug/deps/region-927cad74b7fbef12.d: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/error.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/lock.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/mod.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/unix.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/macos.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/page.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/protect.rs
+
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/lib.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/error.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/lock.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/mod.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/unix.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/macos.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/page.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/protect.rs:

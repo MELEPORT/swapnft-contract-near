@@ -1,0 +1,13 @@
+/Users/haitran/Hackathon_NEAR/NEAR_COURCE_K2/nft-marketplace-tutorial/FT/target/rls/debug/deps/target_lexicon-0d6735b57ca7f9f7.rmeta: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/data_model.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/host.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/parse_error.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/targets.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/triple.rs /Users/haitran/Hackathon_NEAR/NEAR_COURCE_K2/nft-marketplace-tutorial/FT/target/rls/debug/build/target-lexicon-66898b57c79b42de/out/host.rs
+
+/Users/haitran/Hackathon_NEAR/NEAR_COURCE_K2/nft-marketplace-tutorial/FT/target/rls/debug/deps/target_lexicon-0d6735b57ca7f9f7.d: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/data_model.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/host.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/parse_error.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/targets.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/triple.rs /Users/haitran/Hackathon_NEAR/NEAR_COURCE_K2/nft-marketplace-tutorial/FT/target/rls/debug/build/target-lexicon-66898b57c79b42de/out/host.rs
+
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/lib.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/data_model.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/host.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/parse_error.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/targets.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/target-lexicon-0.11.2/src/triple.rs:
+/Users/haitran/Hackathon_NEAR/NEAR_COURCE_K2/nft-marketplace-tutorial/FT/target/rls/debug/build/target-lexicon-66898b57c79b42de/out/host.rs:
+
+# env-dep:OUT_DIR=/Users/haitran/Hackathon_NEAR/NEAR_COURCE_K2/nft-marketplace-tutorial/FT/target/rls/debug/build/target-lexicon-66898b57c79b42de/out

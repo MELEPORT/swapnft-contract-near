@@ -1,0 +1,9 @@
+/Users/haitran/Hackathon_NEAR/MELEPORT_Github/MELEPORT/meleport-contract-near/meleport-contract-near/FT/target/debug/deps/slash_formatter-5a917964360fc99e.rmeta: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/backslash.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/file_separator.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/file_separator_build.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/slash.rs
+
+/Users/haitran/Hackathon_NEAR/MELEPORT_Github/MELEPORT/meleport-contract-near/meleport-contract-near/FT/target/debug/deps/slash_formatter-5a917964360fc99e.d: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/backslash.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/file_separator.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/file_separator_build.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/slash.rs
+
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/lib.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/backslash.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/file_separator.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/file_separator_build.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/slash.rs:

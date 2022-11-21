@@ -1,0 +1,1 @@
+/Users/haitran/Hackathon_NEAR/NEAR_COURCE_K2/nft-marketplace-tutorial/FT/target/wasm32-unknown-unknown/release/libdefi.rlib: /Users/haitran/Hackathon_NEAR/NEAR_COURCE_K2/nft-marketplace-tutorial/FT/test-contract-defi/src/lib.rs

@@ -1,0 +1,16 @@
+/Users/haitran/Hackathon_NEAR/MELEPORT_Github/MELEPORT/meleport-contract-near/meleport-contract-near/FT/target/debug/deps/wasmer_types-1414307cd9d79e2b.rmeta: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/features.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/indexes.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/initializers.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/memory_view.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/native.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/ref.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/types.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/units.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/values.rs
+
+/Users/haitran/Hackathon_NEAR/MELEPORT_Github/MELEPORT/meleport-contract-near/meleport-contract-near/FT/target/debug/deps/wasmer_types-1414307cd9d79e2b.d: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/features.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/indexes.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/initializers.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/memory_view.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/native.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/ref.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/types.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/units.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/values.rs
+
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/lib.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/features.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/indexes.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/initializers.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/memory_view.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/native.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/ref.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/types.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/units.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-types-1.0.2/src/values.rs:
+
+# env-dep:CARGO_PKG_VERSION=1.0.2

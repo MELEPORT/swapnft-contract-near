@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/haitran/Hackathon_NEAR/NEAR_COURCE_K2/nft-marketplace-tutorial/FT/target/rls/debug/build/typenum-86805692e11ee4f9/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/haitran/Hackathon_NEAR/NEAR_COURCE_K2/nft-marketplace-tutorial/FT/target/rls/debug/build/typenum-86805692e11ee4f9/out/op.rs

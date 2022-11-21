@@ -1,0 +1,15 @@
+/Users/haitran/Hackathon_NEAR/MELEPORT_Github/MELEPORT/meleport-contract-near/meleport-contract-near/FT/target/debug/deps/wasmer_engine_jit-563ad1dcee17ed1f.rmeta: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/artifact.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/builder.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/code_memory.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/engine.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/link.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/serialize.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/unwind/mod.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/unwind/systemv.rs
+
+/Users/haitran/Hackathon_NEAR/MELEPORT_Github/MELEPORT/meleport-contract-near/meleport-contract-near/FT/target/debug/deps/wasmer_engine_jit-563ad1dcee17ed1f.d: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/artifact.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/builder.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/code_memory.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/engine.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/link.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/serialize.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/unwind/mod.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/unwind/systemv.rs
+
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/lib.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/artifact.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/builder.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/code_memory.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/engine.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/link.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/serialize.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/unwind/mod.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/unwind/systemv.rs:
+
+# env-dep:CARGO_PKG_VERSION=1.0.2
